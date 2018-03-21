@@ -1,6 +1,7 @@
 {
     "orgName": "Salesforce DX Company",
     "edition": "Developer",
+    "features": ["ExternalSharing"],
     "orgPreferences" : {
         "enabled": ["S1DesktopEnabled"]
     }
